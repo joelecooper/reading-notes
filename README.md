@@ -5,5 +5,10 @@
 - Continue to learn
 - I can encourage others
 
+
 ### This is heading 3
-###### This is heading 6
+* item 1
+* item 2
+* item 3
+
+##### This is some Code on my Page
