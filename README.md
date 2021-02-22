@@ -3,7 +3,8 @@
 ## Who am I?
 My name is Joel Cooper and I am a Canadian-born, Marine Corps veteran living in Texas. I have lived in Texas for
 over 17 years. I was stationed on Parris Island, South Carolina, for four years. I love retro-style 80's remixes and
-I especially love Miami Vice.
+I especially love Miami Vice. I mean, who wouldn't want to dress like these guys?
+file:///C:/Users/joelc/OneDrive/Pictures/Miami%20Vice.jpg
 
 [Here is a link to my favorite band's Spotify page.](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw?si=UmNiLzr5Qd2h9dffIG7iAw)
 
