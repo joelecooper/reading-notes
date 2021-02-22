@@ -12,3 +12,5 @@ I especially love Miami Vice.
 1. A positive outlook on all upcoming work and obstacles.
 2. Anyone can have this mindset. It will set you up for success when it comes to tackling new challenges.
 3. Learning from mistakes, persisting through hard work, and accepting criticism are all key concepts when it comes to the growth mindset.
+
+### Come check out my GitHub portfolio.
