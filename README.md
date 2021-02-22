@@ -14,3 +14,4 @@ I especially love Miami Vice.
 3. Learning from mistakes, persisting through hard work, and accepting criticism are all key concepts when it comes to the growth mindset.
 
 ### Come check out my GitHub portfolio.
+https://github.com/joelecooper/reading-notes
