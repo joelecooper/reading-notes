@@ -5,7 +5,13 @@ My name is Joel Cooper and I am a Canadian-born, Marine Corps veteran living in 
 over 17 years. I was stationed on Parris Island, South Carolina, for four years. I love retro-style 80's remixes and
 I especially love Miami Vice.
 
-[Here is a link to my favorite band's Spotify page.](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw?si=UmNiLzr5Qd2h9dffIG7iAw)
+Why do I like Miami Vice so much?
+- [x] Blazers
+- [x] Testarossas
+- [x] Sax music
+- [x] Miami
+
+[If you want to go on a night drive in L.A., here is a link to my favorite band's Spotify page.](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw?si=UmNiLzr5Qd2h9dffIG7iAw)
 
 ### What is the "Growth Mindset"?
 **The growth mindset can be summed up with the following:**
