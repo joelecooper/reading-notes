@@ -21,4 +21,3 @@ Why do I like Miami Vice so much?
 
 ### Come check out my GitHub portfolio.
 https://github.com/joelecooper/reading-notes
-![]https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatebook.sfchronicle.com%2Fmovies-tv%2F35-years-ago-miami-vice-changed-everything-you-know-about-cop-shows-and-fashion&psig=AOvVaw2XwnShwmUEjUU0zCFxUDi5&ust=1614115490191000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiO3va2_u4CFQAAAAAdAAAAABAD.jpg
