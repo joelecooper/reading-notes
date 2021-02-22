@@ -12,3 +12,10 @@
 * item 3
 
 ##### This is some Code on my Page
+'''python
+def hello_world():
+  print('Hello World')
+'''
+
+#### External Link
+[This is my link to the Blade Runner page]https://www.warnerbros.com/movies/blade-runner
