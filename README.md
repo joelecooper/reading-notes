@@ -21,7 +21,3 @@ Why do I like Miami Vice so much?
 
 ### Come check out my GitHub portfolio.
 https://github.com/joelecooper/reading-notes
-
-#### Table of Contents
-
-[Reading Class 2]
