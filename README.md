@@ -21,3 +21,13 @@ Why do I like Miami Vice so much?
 
 ### Come check out my GitHub portfolio.
 https://github.com/joelecooper/reading-notes
+
+### Table of Contents
+- [Reading 1](read01.md)
+- [Reading 2](read02.md)
+- [Reading 3](read03.md)
+- [Reading 4](read04.md)
+- [Reading 5](read05.md)
+- [Reading 6](read06.md)
+- [Reading 7](read07.md)
+- [Reading 8](read08.md)
