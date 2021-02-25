@@ -28,4 +28,10 @@
 -The two types of expressions: Expressions that just assign a value to a varible and expressions that use two or more values to return a single value.
 Expressions rely on things called __operators__; they allow programmers to create a single value from one or more values.
 
+## What is a function?
+
+-Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements.)
+-__Parameters__ are pieces of information passed to a function.
+-__Return values__ is the response from writing a function where you
+
 [<== back](README.md)
