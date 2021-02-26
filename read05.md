@@ -13,9 +13,4 @@
 - The __properties__ indicate the aspect of the elements you want to change such as color, font, width, height and border.
 - The __values__ specify the settings you want to use for the chosen properties such as specifying a color property.
 
-## CHAPTER 11
-
-### 
-
-
 [<== back](README.md)
