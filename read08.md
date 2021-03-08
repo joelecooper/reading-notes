@@ -12,5 +12,4 @@ Greater than >: This operator checks if the number on the left is __greater than
 -Greather than or equal to >=: This operator checks if the number on the left is __greater than or equal to__ the number on the right.
 -Less than or equal to <=: This operator checks if the number on the left is __less than or greater to__ the number on the right.
 
-
 [<== back](README.md)
